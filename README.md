@@ -1,5 +1,5 @@
 # 🚗 Car Sales Analysis! 📊
-As a data analyst, I recently worked on creating this interactive Car Sales Dashboard, providing a comprehensive view of key metrics and insights for car sales performance in 2022 and 2023.Special Thanks to my mentor COLLINS BAHATI
+As a data analyst, I recently worked on creating this interactive Car Sales Dashboard, providing a comprehensive view of key metrics and insights for car sales performance in 2022 and 2023.
 
 ## 🔍Objective of the Project:
 - The goal was to design an intuitive dashboard that enables stakeholders to:
